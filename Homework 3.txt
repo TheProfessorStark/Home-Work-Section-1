@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Test_Program
+{
+    internal class Program
+    {
+        static void Main()
+        {
+            bool content = true;
+            bool nocontent = false;
+            Console.WriteLine("test is {0}", content);
+            Console.WriteLine("test is {0}", nocontent);
+        }
+    }
+}
